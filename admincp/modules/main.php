@@ -1,0 +1,1 @@
+<p>main admincp</p>
